@@ -6,10 +6,10 @@ Görev Tanımı:
 	Burda diğer önemli nokta client bu bilgileri argüman olarak almalı. Ayrıca server ve client’in çalışma sürelerini de denetlemeniz rica olunur. Örneğin 5 sn sonra server’ı kapatmak gibi.
 
 Örnek girdi:
-
+![alt text](https://uniim1.shutterfly.com/render/00-RMNuRf_cvlSvCr7IsrJuykDnqygDeyuHrhkoGCpCYg5vk7_0GFU8fp_3ZnYRpKq85cYdfB3jRoL_VZILaXEufg?cn=THISLIFE&res=x-small&ts=1666950171)
 
 Örnek çıktı:
-
+![alt text](https://uniim1.shutterfly.com/render/00-RMNuRf_cvlSvCr7IsrJuykDnqygDeyuHrhkoGCpCYg4l2TbWhxA19loW9yoYFYkqqCe7ffHDJpwno-pEcjtJnw?cn=THISLIFE&res=small&ts=1666950179)
 	
 
 
