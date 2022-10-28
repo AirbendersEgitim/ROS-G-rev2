@@ -1,4 +1,4 @@
-Görev Özeti
+Görev Özeti:
 Bu görevde srv dosyası kullanarak node’lar arasında haberleşme yapılması amaçlanmıştır.  Server ve client iki ayrı ros node olmak üzere srv dosyası sayesinde mesaj alıp verebilir. 
 
 Görev Tanımı:
